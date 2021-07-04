@@ -1,0 +1,36 @@
+ 1036  npm install
+ 1037  npm init
+ 1038  npm install package --save
+ 1039  npm install docker --save
+ 1040  ls
+ 1041  npm install package --save
+ 1042  npm install express
+ 1043  docker build -t fire
+ 1044  docker build -t fire .
+ 1045  docker run sha256:842a9402013afb9754fd4ec8d03d476a91dc851f30b6e67b283c1ed15a327e58
+ 1046  docker run sha256:842a9402013afb9754fd4ec8d03d476a91dc851f30b6e67b283c1ed15a327e58
+ 1047  docker build -t fire .
+ 1048  docker run sha256:842a9402013afb9754fd4ec8d03d476a91dc851f30b6e67b283c1ed15a327e58
+ 1049  docker run sha256:10c08e3f12d12fa75f0fb4061d3a054d5278a676632f85c546de56acb10a77f2
+ 1050  docker run -p:5000:8080 sha256:10c08e3f12d12fa75f0fb4061d3a054d5278a676632f85c546de56acb10a77f2
+ 1051  docker run -p:5000:8080 sha256:10c08e3f12d12fa75f0fb4061d3a054d5278a676632f85c546de56acb10a77f2
+ 1052  docker compose up
+ 1053  docker-compose up
+ 1054  ls
+ 1055  docker-compose build
+ 1056  docker-compose up
+ 1057  docker-compose up
+ 1058  docker-compose up
+ 1059  docker-compose up
+ 1060  docker-compose up
+ 1061  docker-compose up
+ 1062  docker-compose up
+ 1063  docker-compose up
+ 1064  docker-compose up
+ 1065  docker-compose up
+ 1066  docker-compose up
+ 1067  history
+ 1068  history 20
+ 1069  history 15 < print.txt
+ 1070  history < print.txt
+ 1071  history > print.txt
